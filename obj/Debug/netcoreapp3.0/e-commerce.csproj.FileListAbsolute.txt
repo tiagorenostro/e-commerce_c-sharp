@@ -1,0 +1,11 @@
+/Users/tiagorenostro/Projects C#/e-commerce/bin/Debug/netcoreapp3.0/e-commerce
+/Users/tiagorenostro/Projects C#/e-commerce/bin/Debug/netcoreapp3.0/e-commerce.deps.json
+/Users/tiagorenostro/Projects C#/e-commerce/bin/Debug/netcoreapp3.0/e-commerce.runtimeconfig.json
+/Users/tiagorenostro/Projects C#/e-commerce/bin/Debug/netcoreapp3.0/e-commerce.runtimeconfig.dev.json
+/Users/tiagorenostro/Projects C#/e-commerce/bin/Debug/netcoreapp3.0/e-commerce.dll
+/Users/tiagorenostro/Projects C#/e-commerce/bin/Debug/netcoreapp3.0/e-commerce.pdb
+/Users/tiagorenostro/Projects C#/e-commerce/obj/Debug/netcoreapp3.0/e-commerce.csprojAssemblyReference.cache
+/Users/tiagorenostro/Projects C#/e-commerce/obj/Debug/netcoreapp3.0/e-commerce.AssemblyInfoInputs.cache
+/Users/tiagorenostro/Projects C#/e-commerce/obj/Debug/netcoreapp3.0/e-commerce.AssemblyInfo.cs
+/Users/tiagorenostro/Projects C#/e-commerce/obj/Debug/netcoreapp3.0/e-commerce.dll
+/Users/tiagorenostro/Projects C#/e-commerce/obj/Debug/netcoreapp3.0/e-commerce.pdb
